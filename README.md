@@ -1,6 +1,6 @@
 # Team-Jared
 
-This team is made up of the two Jared in SCI (We think).
+This team is made up of the two Jareds for big ideas.
 
 ## jared.py
 
