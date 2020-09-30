@@ -1,10 +1,16 @@
-# Team-Jared
+# jared.py
+A python program that will determine the possible years of birth based on a user's age.
 
-This team is made up of the two Jareds for big ideas.
+## Dependencies
+Python
+Git
 
-#### jared.py
+## Installation
+Clone and enter this git repository
 
-take in name and age and responds with your birth year
+## Usage
+Run jared.py using Python and enter your name and age
+> python jared.py
 
 #### Contributers
 Jared Glickfield and Jared Peters
